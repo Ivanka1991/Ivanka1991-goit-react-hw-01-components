@@ -1,0 +1,6 @@
+.list:nth-child(2n) {
+    background: cyan;
+}
+.list:nth-child(2n+1) {
+    background: aquamarine;
+}

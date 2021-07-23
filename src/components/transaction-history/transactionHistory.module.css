@@ -1,0 +1,17 @@
+.table{
+    margin: 15px;
+}
+
+.blank {
+    width: 400px;
+    height: 40px;
+    background: skyblue;
+}
+.history {
+    text-align: center;
+    height: 30px;
+    font-size: 12px;
+}
+.column{
+    width: 150px;
+}
